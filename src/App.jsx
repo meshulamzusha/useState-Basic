@@ -1,7 +1,8 @@
 import "./App.css";
+import MoodGame from "./components/MoodGame/MoodGame";
 
 function App() {
-  return <></>;
+  return <><MoodGame /></>;
 }
 
 export default App;
